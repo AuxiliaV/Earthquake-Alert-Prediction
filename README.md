@@ -79,6 +79,20 @@ Candidate features included magnitude, sig, dmin, gap, and depth. The project us
 └── .gitignore
 ```
 
+## Screenshots
+
+### Model Evaluation — Confusion Matrix
+![Confusion Matrix](screenshots/confusion-matrix.png)
+
+### Model Evaluation — Classification Report
+![Classification Report](screenshots/classification-report.png)
+
+### Prediction Interface
+![Prediction Interface](screenshots/prediction-interface.png)
+
+### Sample Prediction Result
+![Prediction Result](screenshots/prediction-result.png)
+
 ## Technologies
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, mlxtend, Jupyter Notebook, Pickle.
